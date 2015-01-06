@@ -8,6 +8,7 @@
 
 #import "SVModalWebViewController.h"
 #import "SVWebViewController.h"
+#import "FAKFontAwesome.h"
 
 @interface SVModalWebViewController ()
 
